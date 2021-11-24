@@ -97,6 +97,8 @@
 <a href = "www.linkedin.com/in/supun-sulakshana-41997a1a3"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@SupunSulakshan3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/supunsulak20/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "	https://medium.com/@supunsulak20"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/></a>
+
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
