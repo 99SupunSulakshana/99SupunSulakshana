@@ -1,26 +1,26 @@
-<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/app-development-banner_5467426.htm#query=mobile%20application%20development&position=2&from_view=search&track=ais" height="175px"/></a>
+<a href="#"><img width="100%" height="400px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1677914802~exp=1677915402~hmac=a661a92a61e8052cc7ed24a29e1bd7f6fc119c1ed65fa783d91065e577fef331"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supun Sulakshana (Suppa🔥)</h1>
-<h3 align="center">I'M A PASSIONATE SOFTWARE ENGINEER IN MOBILE APPLICATION DEVELOPMENT SECTOR - (ANDROID-JAVA+KOTLIN | FLUTTER | IOS | REACTNATIVE)</h3>
+<h1 align="center" style = "">``Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supun Sulakshana`` 🔥</h1>
+<h3 align="center">I'M A PASSIONATE SOFTWARE ENGINEER IN MOBILE APPLICATION DEVELOPMENT SECTOR - (#ANDROID-JAVA+KOTLIN | #FLUTTER | #IOS | #REACTNATIVE)</h3>
 
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me...
 
-- 🔭 I’m currently studying in **Cardiff Metropolitan University-UK**
+- 🎓 I studied at **ICBT Campus in Sri Lanka**. Degree offerred by - **Cardiff Metropolitan University-UK** - **Bachelor of Science with Honours in Software Engineering** -Grade (**1st Class - 360 UK Credits**)
 
-- 🌱 I’m currently learning **Computing & Software Engineering-BSc(Hons)**
+- 🎓 I have done my **Higher National Diploma** in **Computing & Software Enginner** at **ICBT Camps in Sri Lanka** - Grede (**2nd Upper Class**).
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m working to collaborate on **Mobile Application Project & BackEnd Projects**.
 
-- 👨‍💻 All of my projects are available at **GitHub**
+- 👨‍💻 All of my individual projects are available at **GitHub**.
 
-- 📫 How to always reach me immediately **supunsulak20@gmail.com-📲(+94) 71 132 7 510**
+- 📫 How to always reach me immediately **supunsulak20@gmail.com-📲(+94) 71 132 7 510 - (+94) 70 1103890(Additional)**.
 
 - 👀 I am interested in learning on **New programming languages & New Technoplogies**
 
-- 💞️ I always use programming languages on **Java|C#|C++|PHP|Phython|Dart|Go...etc**
+- 💞️ I always use programming languages on **Java|Kotlin|C#|C++|PHP|Phython|Dart|Swift...etc**
 
-- 💞️ I always use frameworks & libraries on **ReactJs|NextJs|VueJS|Laravel|Springboot|Hibernate|Django|NodeJS|ExpressJs|Asp.net|Angular|JQuery...etc**
+- 💞️ I always use frameworks & libraries or technologies on **#Flutter#Laravel#Springboot#NodeJS#ExpressJs#Asp.net#Angular#JQuery#GitHub#OOP Concepts#SOLID Principles#Design Principles#AWS#Machine Learning#Deep Learning#Artificial Intelligence#Rest APIs#Retrofit#Fast API#Jet Pack Composables#XML#MVVM#MVC#Agile SDLC#Ubuntu#Clouds#Bit Bucket#Agile Board - JIRA#Azure Dev Ops#PotMan#FireBase...etc**
 
 - 💞️ I always use databases on **MongoDB|PostgreSQL|MSsql|MySQL|Oracle...etc**
 
@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **Linkedin|Instagram|Twiitter|Email -links are below**
 
-- 💬 Ask me **Your programming problems & Industru Problems**
+- 💬 Ask me **Your programming problems & Industry Problems**
 
 - 👉 My Strengths **I'm willing to accept challenges**
 
@@ -43,6 +43,12 @@
 - 🤞 My Goal is **My own software engineering company with a new my own brand**
 
 - ⚡ Fun fact **I always celebrate my little accomplishments**
+
+<a href="#"><img width="100%" height="300px" src="https://img.freepik.com/free-vector/professional-programmers-configuring-software-colorful-flat-illustration_1284-60230.jpg?w=996&t=st=1677917693~exp=1677918293~hmac=c017d693ab73ccc2ef6ca32c8ad961d55104108252f9c02f652b671f7d673484"/></a>
+
+## 💻 Worked places~~ 
+
+- 👉 **Treinetic (Pvt) Ltd. - (Mobile Application Development)** - Robert Gunawardena Road, Baththaramulla, Sri Lanka. 
 
 ## 🚀 Languages and Tools:
 
@@ -74,6 +80,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Supun Sulakshana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=99SupunSulakshana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<a href="#"><img width="100%" height="300px" src="https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=996&t=st=1677918072~exp=1677918672~hmac=055ce92979c14b80e840a837116d8c700045f4f595d99fdff08bca203aca7452"/></a>
 
 ## 📊 My Github Stats
 
