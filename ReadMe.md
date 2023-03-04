@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.freepik.com/free-vector/app-development-banner_5467426.htm#query=mobile%20application%20development&position=2&from_view=search&track=ais" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supun Sulakshana (Suppa🔥)</h1>
 <h3 align="center">I'M A PASSIONATE SOFTWARE ENGINEER IN MOBILE APPLICATION DEVELOPMENT SECTOR - (ANDROID-JAVA+KOTLIN | FLUTTER | IOS | REACTNATIVE)</h3>
