@@ -1,54 +1,108 @@
 <a href="#"><img width="100%" height="400px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1677914802~exp=1677915402~hmac=a661a92a61e8052cc7ed24a29e1bd7f6fc119c1ed65fa783d91065e577fef331"/></a>
 
 <h1 align="center" style = "">``Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supun Sulakshana`` 🔥</h1>
-<h3 align="center">I'M A PASSIONATE SOFTWARE ENGINEER IN MOBILE APPLICATION DEVELOPMENT SECTOR - (#ANDROID-JAVA+KOTLIN | #FLUTTER | #IOS | #REACTNATIVE)</h3>
+<h3 align="center">I'M A PASSIONATE SOFTWARE ENGINEER IN MOBILE APPLICATION DEVELOPMENT - (#ANDROID-JAVA+KOTLIN | #FLUTTER | #IOS | #REACTNATIVE)</h3>
 
+# 📌 Summary
+
+- Innovative Mobile AppDeveloper with over 2.5 years of experience creating and implementing cutting-edge native Android as well as cross-platform solutions using Flutter and React Native. Proficient in the full mobile development lifecycle, from concept to deployment, with a strong focus on user experience and performance optimization. Skilled in Java, Kotlin, Swift, and various mobile frameworks. Proven ability to collaborate with cross-functional teams to deliver high-quality, feature-rich applications that exceed user expectations.
 
 # 🙋‍♂️ About Me...
 
-- 🎓 I studied at **ICBT Campus in Sri Lanka**. Degree offerred by - **Cardiff Metropolitan University-UK** - **Bachelor of Science with Honours in Software Engineering** -Grade (**1st Class - 360 UK Credits**)
+- 🎓 I studied at **ICBT Campus in Sri Lanka**. Degree offered by - **Cardiff Metropolitan University-UK** - **Bachelor of Science with Honours in Software Engineering** - 
+      Grade (**🥇1st Class - 360 UK Credits**).
 
-- 🎓 I have done my **Higher National Diploma** in **Computing & Software Enginner** at **ICBT Camps in Sri Lanka** - Grede (**2nd Upper Class**).
+- 🎓 I have done my **Higher National Diploma in **Computing & Software Enginner** at **ICBT Camps in Sri Lanka** - Grede (**🥈2nd Upper Class**).
 
-- 👯 I’m working to collaborate on **Mobile Application Project & BackEnd Projects**.
+- 👯 I’m working to collaborate on **Mobile Application Projects and Backend Projects**.
 
 - 👨‍💻 All of my individual projects are available at **GitHub**.
 
-- 📫 How to always reach me immediately **supunsulak20@gmail.com-📲(+94) 71 132 7 510 - (+94) 70 1103890(Additional)**.
+- 📫 How to always reach me immediately **supunsulak20@gmail.com-📲(+94) 71 132 7 510 - (+94) 70 1103890 (Additional)**.
 
-- 👀 I am interested in learning on **New programming languages & New Technoplogies**
+- 👀 I am interested in learning **New programming languages and new technologies**.
 
-- 💞️ I always use programming languages on **Java|Kotlin|C#|C++|PHP|Phython|Dart|Swift...etc**
+- 💞️ I always used programming languages on **Java|Kotlin|C#|C++|PHP|Phython|Dart|Swift...etc**.
 
-- 💞️ I always use frameworks & libraries or technologies on **#Flutter#Laravel#Springboot#NodeJS#ExpressJs#Asp.net#Angular#JQuery#GitHub#OOP Concepts#SOLID Principles#Design Principles#AWS#Machine Learning#Deep Learning#Artificial Intelligence#Rest APIs#Retrofit#Fast API#Jet Pack Composables#XML#MVVM#MVC#Agile SDLC#Ubuntu#Clouds#Bit Bucket#Agile Board - JIRA#Azure Dev Ops#PotMan#FireBase...etc**
+- 💞️ I always used frameworks & libraries or technologies on **#Flutter#Laravel#Springboot#NodeJS#ExpressJs#Asp.net#Angular#JQuery#GitHub#OOP Concepts#SOLID             
+     Principles#Design Principles#AWS#Machine Learning#Deep Learning#Artificial Intelligence#Rest APIs#Retrofit#Fast API#Jet Pack Composables#XML#MVVM#MVC#Agile 
+     SDLC#Ubuntu#Clouds#Bit Bucket#Agile Board - JIRA#Azure Dev Ops#PostMan#FireBase...etc**.
 
-- 💞️ I always use databases on **MongoDB|PostgreSQL|MSsql|MySQL|Oracle...etc**
+- 💞️ I always used databases on **MongoDB|PostgreSQL|MSsql|MySQL|Oracle...etc**.
 
-- 💞️ I always use **Web Application|Mobile Application|Desktop Application**
+- 💞️ I always used **Web Application|Mobile Application|Desktop Application**.
 
-- ✨ How to always hire me immediately **Send email - supunsulak20@gmail.com**
+- ✨ How to always hire me immediately **Send email - supunsulak20@gmail.com**.
 
-- 📫 How to reach me **Linkedin|Instagram|Twiitter|Email -links are below**
+- 📫 How to reach me **Linkedin|Instagram|Twiitter|Email -links are below**.
 
-- 💬 Ask me **Your programming problems & Industry Problems**
+- 💬 Ask me **Your programming problems & Industry Problems**.
 
-- 👉 My Strengths **I'm willing to accept challenges**
+- 👉 My Strengths **I'm willing to accept challenges**.
 
-- ❔ My Weakness **I'm so absorbed into work** 
+- ❔ My Weakness **I'm so absorbed in work**. 
 
-- 💯 My Guarantee **I'm able to solve your all problems in the IT industry**
+- 💯 My Guarantee **I'm able to solve your all problems in the IT industry**.
 
-- 💻 My working Time is **I work untill my daily routes are over**
+- 💻 My working Time is **I work until my daily routes are over**.
 
-- 🤞 My Goal is **My own software engineering company with a new my own brand**
+- 🤞 My Goal is to **My own software engineering company with a new my own brand**.
 
-- ⚡ Fun fact **I always celebrate my little accomplishments**
+- ⚡ Fun fact **I always celebrate my little accomplishments**.
 
 <a href="#"><img width="100%" height="300px" src="https://img.freepik.com/free-vector/professional-programmers-configuring-software-colorful-flat-illustration_1284-60230.jpg?w=996&t=st=1677917693~exp=1677918293~hmac=c017d693ab73ccc2ef6ca32c8ad961d55104108252f9c02f652b671f7d673484"/></a>
 
 ## 💻 Worked places~~ 
 
-- 👉 **Treinetic (Pvt) Ltd. - (Mobile Application Development)** - Robert Gunawardena Road, Baththaramulla, Sri Lanka. 
+- 👉 ** **Treinetic (Pvt) Ltd.** - (Mobile Application Development)** - Robert Gunawardena Road, Baththaramulla, Sri Lanka.
+- 👉 ** **Auradot(Private) Ltd** - 410/118,BauddhalokaMawatha,Colombo00700,SriLanka.
+
+
+## 📝 Projects (Professional Level)~~
+
+- **Weleta Mobile Application - document signing and authentication for individuals & businesses (NativeAndroid)**.
+    *** Lead the development of Weleta project and successfully deployed it in more than 180 countries.
+    *** Used technologies - Android, Kotlin, Java, MVVM pattern, Jetpack compose, Firebase, DaggerHilt, Retrofit, AWS
+    *** Play Store link - **https://play.google.com/store/apps/details?id=com.viditure.weleta&hl=en_US**
+
+- **Digital Invia - Ethiopian Passport & OriginI ID request app (NativeAndroid)**.
+    *** Lead the development of the Digital Invia project and successfully deployed it to more than 180 countries. Currently, the digital Invia app handles more than 39k+          end-users.
+    *** Used technologies - Android, Kotlin, Java, Firebase, DaggerHilt, FastAPI, AWS
+    *** Play Store link - **https://play.google.com/store/apps/details?id=com.viditure.invia.app&hl=en&gl=US**
+
+- **Digital MOFA - Ethiopian government's document certification app (NativeAndroid)**.
+    *** Lead the development of the Digital Mofa project and successfully deployed it in more than 180 countries. Currently, the digital MOFA app handles more than 10k+            end-users.
+    *** Used technologies - Android, Kotlin, Java, Firebase, DaggerHilt, FastAPI, AWS
+    *** Play Store link - **https://play.google.com/store/apps/details?id=com.viditure.mofa&hl=en_US**
+
+- **The eBook Store mobile application (NativeAndroid)**.
+    *** Contributed to the development of the Poth app project.
+    *** Used technologies - Android, Kotlin, Java, Firebase, DaggerHilt, FastAPI, AWS
+    *** Play Store link - **https://play.google.com/store/apps/details?id=com.treinetic.poth&hl=en_US**
+
+- **Gurulugomi - The eBook Store mobile application (NativeAndroid)**.
+    *** Contributed to the development of the Gurulugomi project. Currently, the Gurulugomi app handles more than 100k+ end users.
+    *** Used technologies - Android, Kotlin, Java, Firebase, DaggerHilt, FastAPI, AWS
+    *** Play Store link - **https://play.google.com/store/apps/details?id=com.treinetic.whiteshark&hl=en&gl=US**
+
+- **iCheck Mobile Application- AI-based attendance checking system. (Cross-platform)**.
+    *** Lead the development of the Check project and successfully deployed it in more than 180 countries.
+    *** Used technologies - Flutter
+    *** Play Store link - **https://play.google.com/store/apps/details?id=com.aura.icheckapp**
+
+- **iCheck Project - Backend**.
+    *** involved in the backend development and maintenance role in the project and Contributed to the development of the facial recognition AI part.
+    *** Used technologies - Python, MachineLearning, Open CV, AWS S3 bucket, Docker, AWS Elastic Beanstalk
+
+- **Auradocs - Document management platform. (Web Application)**.
+    *** Contributed to the development of the Auradocs web app project.
+    *** Used technologies - Java, JQuery, HTML, CSS, Bootstrap
+    *** Url- **http://auradot.auradocs.com**
+
+- **Smaboo - Online restaurant appointment management platform (Web Application)**.
+    *** Contributed to the development ( full-stack ) of the Etsmaboo web app project.
+    *** Used technologies - Laravel
+    *** Url- **https://smaboo.com**
 
 ## 🚀 Languages and Tools:
 
