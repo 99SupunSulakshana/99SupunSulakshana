@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="400px" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1677914802~exp=1677915402~hmac=a661a92a61e8052cc7ed24a29e1bd7f6fc119c1ed65fa783d91065e577fef331"/></a>
 
-<h1 align="center" style = "">``Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supun Sulakshana`` 🔥</h1>
+<h1 align="center" style = "">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supun Sulakshana 🔥</h1>
 <h3 align="center">I'M A PASSIONATE SOFTWARE ENGINEER IN MOBILE APPLICATION DEVELOPMENT - (#ANDROID-JAVA+KOTLIN | #FLUTTER | #IOS | #REACTNATIVE)</h3>
 
 # 📌 Summary
@@ -52,13 +52,13 @@
 
 <a href="#"><img width="100%" height="300px" src="https://img.freepik.com/free-vector/professional-programmers-configuring-software-colorful-flat-illustration_1284-60230.jpg?w=996&t=st=1677917693~exp=1677918293~hmac=c017d693ab73ccc2ef6ca32c8ad961d55104108252f9c02f652b671f7d673484"/></a>
 
-## 💻 Worked places~~ 
+## 💻 Worked places
 
-- 👉 ** **Treinetic (Pvt) Ltd.** - (Mobile Application Development)** - Robert Gunawardena Road, Baththaramulla, Sri Lanka.
-- 👉 ** **Auradot(Private) Ltd** - 410/118,BauddhalokaMawatha,Colombo00700,SriLanka.
+- 👉 **Treinetic (Pvt) Ltd.** - (Mobile Application Development)** - Robert Gunawardena Road, Baththaramulla, Sri Lanka.
+- 👉 **Auradot(Private) Ltd** - 410/118,BauddhalokaMawatha,Colombo00700,SriLanka.
 
 
-## 📝 Projects (Professional Level)~~
+## 📝 Projects (Professional Level)
 
 - **Weleta Mobile Application - document signing and authentication for individuals & businesses (NativeAndroid)**.
     *** Lead the development of Weleta project and successfully deployed it in more than 180 countries.
